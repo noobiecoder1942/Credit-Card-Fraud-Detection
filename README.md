@@ -5,4 +5,4 @@ This dataset was obtained from Kaggle.
 
 Link to dataset:
 
-https://www.kaggle.com/dalpozz/creditcardfraud
+https://www.kaggle.com/mlg-ulb/creditcardfraud
